@@ -1,7 +1,4 @@
-## 🧮 ST1507 : DSAA Assignment CA1 | Caesar Cipher Encryption
-### Name : Dario Prawara Teh Wei Rong 
-### Admin Number : 2201858
-### Class : DAAA / FT / 2B / 04
+## 🧮 Caesar Cipher Encryption Application
 
 ### How To Run The Program
 
